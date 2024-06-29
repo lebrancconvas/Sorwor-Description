@@ -10,3 +10,5 @@ This Project will do something about generating (Using AI utility) the descripti
 - Type Your Name
 - Type Your Job/Occupation/Activity
 - Select a senator group that you want to be at
+- Click Generate
+- Output Description will show to you
